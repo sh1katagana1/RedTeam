@@ -1,6 +1,6 @@
 # Tunneling
 
-## Bore \
+## Bore 
 https://github.com/ekzhang/bore \
 **Description** A modern, simple TCP tunnel in Rust that exposes local ports to a remote server, bypassing standard NAT connection firewalls \
 Installation requires Rust
