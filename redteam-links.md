@@ -43,4 +43,5 @@ https://wtfbins.wtf/ \
 Living Off the Foreign Land (LOFL) are LOFL Cmdlets and Binaries (LOFLCABs) that are capable of performing activities from the local (Offensive Windows) system to a REMOTE system \
 https://lofl-project.github.io/ \
 ## Persistence-Info
-The repository tries to gather an information about Windows persistence mechanisms to make the protection/detection more efficient. 
+The repository tries to gather an information about Windows persistence mechanisms to make the protection/detection more efficient. \
+https://persistence-info.github.io/
