@@ -44,4 +44,7 @@ Living Off the Foreign Land (LOFL) are LOFL Cmdlets and Binaries (LOFLCABs) that
 https://lofl-project.github.io/ \
 ## Persistence-Info
 The repository tries to gather an information about Windows persistence mechanisms to make the protection/detection more efficient. \
-https://persistence-info.github.io/
+https://persistence-info.github.io/ \
+## NTLM Online Cracker
+This site claims to have a database of 8billion+ of NTLM hashes to plain text. \
+https://ntlm.pw
