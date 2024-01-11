@@ -26,4 +26,6 @@ asnmap -org GOOGLE -silent
 Supply Chain Compromise is a well known attack method, and while the main target may harden their defenses, the companies they have acquired may not hold the same security standard. If you can get in via one of these other companies, that is a win. 
 [Crunchbase](https://www.crunchbase.com/) You can search for your target, then look at the Acquistions section. Now you have more websites that are potential targets. \
 Tip: You can also go to the Wikipedia of the company and on the left under History you can also see Acquisitions.
+## Subdomains
+[BBOT](https://github.com/sh1katagana1/osint/blob/main/domain-osint.md#bbot)
 
