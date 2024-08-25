@@ -48,3 +48,7 @@ https://persistence-info.github.io/ \
 ## NTLM Online Cracker
 This site claims to have a database of 8billion+ of NTLM hashes to plain text. \
 https://ntlm.pw
+
+## 0xffsec Handbook
+A guide on offensive security \
+https://0xffsec.com/handbook/
