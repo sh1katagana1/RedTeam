@@ -57,3 +57,7 @@ https://0xffsec.com/handbook/
 A site with tons of different payloads to use in red teaming \
 https://github.com/swisskyrepo/PayloadsAllTheThings 
 
+## File Magic Numbers List
+Different files and the magic numbers they go by \
+https://gist.github.com/leommoore/f9e57ba2aa4bf197ebc5
+
