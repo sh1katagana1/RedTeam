@@ -65,3 +65,8 @@ https://gist.github.com/leommoore/f9e57ba2aa4bf197ebc5
 List of webshells \
 https://github.com/BlackArch/webshells/tree/master
 
+## CVE POCs
+Repos of POCs \
+https://github.com/RhinoSecurityLabs/CVEs \
+https://github.com/nomi-sec/PoC-in-GitHub
+
