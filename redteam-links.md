@@ -52,3 +52,8 @@ https://ntlm.pw
 ## 0xffsec Handbook
 A guide on offensive security \
 https://0xffsec.com/handbook/
+
+## Payload All The Things
+A site with tons of different payloads to use in red teaming \
+https://github.com/swisskyrepo/PayloadsAllTheThings 
+
