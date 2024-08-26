@@ -61,3 +61,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings
 Different files and the magic numbers they go by \
 https://gist.github.com/leommoore/f9e57ba2aa4bf197ebc5
 
+## Webshells
+List of webshells \
+https://github.com/BlackArch/webshells/tree/master
+
